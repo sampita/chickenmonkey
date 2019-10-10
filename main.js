@@ -36,3 +36,13 @@ console.log(scum)  // This should print "1. Galactic Scum" in the console
 
 const under = takeNumber("Underdogs")
 console.log(under)  // This should print "2. Underdogs" in the
+
+
+
+// UI/UX Challenge
+// This is an optional challenge once you meet MVP. Make a new GitHub branch for this challenge.
+
+// Nightclub management wants to use this app at the front door during the event. Incorporate the logic you have written and add an HTML document and apply CSS to make a mobile version of Battle of the Bands.
+
+
+
